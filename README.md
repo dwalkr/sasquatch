@@ -20,7 +20,7 @@ Once you have a GitHub or GitLab account, click the button below to create a cop
 
 <div style="text-align: center;">
 
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=dwalkr/sasquatch&engine=hugo&version=0.49)
+[![Import this project into Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?provider=github&repo=dwalkr/sasquatch&engine=hugo&version=0.49)
 
 </div>
 
